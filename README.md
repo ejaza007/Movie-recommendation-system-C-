@@ -1,4 +1,4 @@
-# Movie-recommendation-system-C-
+# Movie-recommendation-system-in-C++
 This is a Data structures & algorithms project made on C++ to get a beginners experience on how sorting algorithms, searching algorithms and data structures are implemented.
 
 ## Idea
